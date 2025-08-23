@@ -51,7 +51,7 @@
 ## 🐍 Contribution Snake Animation  
 
 <p align="center">
-  <img src="https://github.com/pranaav-kumar/pranaa-kumar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pranaav%20Kumar&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 
 ---
