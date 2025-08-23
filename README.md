@@ -48,10 +48,23 @@
 
 ---
 
-## 🐍 Contribution Snake Animation  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranaav-kumar/pranaav-kumar/output/github-contribution-matrix-snake.svg" alt="Matrix contribution animation" />
+</p>
+
+
+<h2 align="center">⚡ Contribution Animations</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pranaav%20Kumar&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://raw.githubusercontent.com/pranaav-kumar/pranaav-kumar/output/github-contribution-matrix-snake.svg" alt="Matrix Animation" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranaav-kumar/pranaav-kumar/output/github-contribution-tetris.svg" alt="Tetris Animation" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranaav-kumar/pranaav-kumar/output/github-contribution-blockchain.svg" alt="Blockchain Animation" width="800" />
 </p>
 
 ---
