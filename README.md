@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,solidity,ethereum,js,ts,java,html,css,tailwind,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,solidity,js,ts,java,html,css,tailwind,git,vscode" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="50" height="50" alt="Ethereum Logo"/>
 </p>
 
