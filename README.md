@@ -14,7 +14,7 @@
 - 💡 Skilled in **React.js**, **Solidity**, and **Ethers.js**  
 - 👨‍💻 Completed **Web Development Internship** @ **Sify Technologies**  
 - 🏆 **Runner-up** – *Hack the Horizon 2.0* (VIT Chennai)  
-- 🤝 Member of **KBA Tech Club**  
+- 🤝 Member of **KBA Tech Club**  and **LEO Club**
 - 📊 Competitive programmer in **Java**  
 
 ---
