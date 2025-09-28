@@ -10,27 +10,29 @@
 ---
 
 ## 🚀 About Me  
-- 🌐 Passionate about building **decentralized applications** on **Ethereum**  
-- 💡 Skilled in **React.js**, **Solidity**, and **Ethers.js**  
-- 👨‍💻 Completed **Web Development Internship** @ **Sify Technologies**  
-- 🏆 **Runner-up** – *Hack the Horizon 2.0* (VIT Chennai)  
-- 🤝 Member of **KBA Tech Club**  and **LEO Club**
-- 📊 Competitive programmer in **Java**  
+- 🌐 Passionate about building decentralized applications on Ethereum
+- 💡 Skilled in React.js, Solidity, and Ethers.js
+- 📚 Currently learning Hyperledger Fabric for enterprise blockchain solutions
+- 👨‍💻 Completed Web Development Internship @ Sify Technologies
+- 🏆 Runner-up – Hack the Horizon 2.0 (VIT Chennai)
+- 🤝 Member of KBA Tech Club and LEO Club
+- 📊 Competitive programmer in Java
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,solidity,js,ts,java,html,css,tailwind,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,solidity,js,ts,java,html,css,tailwind,git,vscode,go,docker" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="50" height="50" alt="Ethereum Logo"/>
 </p>
+
 
 ---
 
 ## 🌟 Notable Projects  
 🔹 **ColabX** – All-in-one platform for devs to connect, host & collaborate  
-🔹 **Alumni Nexus** – Student–Alumni networking app  
+🔹 **KERIS** – Medical records system for migrant workers using Hyperledger Fabric  
 🔹 **Decentralized Depository System** – Blockchain-based secure share management  
 
 ---
